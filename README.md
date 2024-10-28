@@ -1,30 +1,46 @@
 <div id="title" align=center>
 
 
+
+
+
 [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-%E7%88%B1%E6%AF%95%E8%AE%BE%E5%AE%98%E7%BD%91-yello)](http://jsxs1.cn)
 
 ![Visitor Count](https://profile-counter.glitch.me/hjsdjko/count.svg)
 
+
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=hjsdjko
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjsdjko&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjsdjko&show_icons=true&theme=tokyonight)](http://jsxs1.cn)
 </div>
+
+点击此网址在线查看本项目视频：▶️▶️▶️ [http://www.jsxs1.cn](http://www.jsxs1.cn) ◀️◀️◀️
+
+**【🉑免费获取！！！】**
+
+完整源码联系 **人工客服24小时**全天在线 **【QQ 979748385 】** 回复项目编号即可获取！！！
 
 ---
 
 **注意事项：**
 
+> **项目介绍**
+
+爱毕设成立于2023年04月06日，是一家服务中国计算机专业大学生们的卓越性品牌和开创性平台。提供最新技术框架的完整系统代码，致力于中国计算机专业大学生们可以通过专研系统源码，掌握和学习最新技术框架内在美和独特的蕴含...。目前拥有源码库存3500套【包括但不限于SpringBoot、SSM、Python、大数据、微信小程序等】、其中2024年项目截止目前为止共有850套【均为2024年开发】。
+
+![fddfdf3057d81b1ec6b96a167aba07cad650f30c](https://github.com/user-attachments/assets/62feaf4f-db93-461e-b81e-bb260fca7f70)
+
 > **如何查看指定项目的演示视频？**
 
 💥💥💥点击此网址在线查看本项目视频： [http://www.jsxs1.cn](http://www.jsxs1.cn)
 
-![6449464bad613fd29c0dff81b5801c1](https://github.com/hjsdjko/hjsdjko/assets/120558513/09704eae-2d88-4f15-9e77-d82df3acd18f)
+💥💥💥如果你想查找图书管理系统，只需要在网址种输入“图书”即可。
 
-> **关注微信公众号【爱毕设】或添加QQ 【979748385】，可免费获取完整代码**
+![82e41f4df65c7c819ec690fd60bcaca](https://github.com/user-attachments/assets/e035d080-b35d-4137-8967-88d1b58ecaad)
 
-1. 联系 **【QQ 979748385 QQ群 601569450】** 回复项目编号即可获取！！！
-2. 关注微信公众号 《爱毕设》输入项目编码即可！！！
+> **关注微信公众号【爱毕设】或添加QQ 【979748385】，可获取完整代码**
+
+1. 关注微信公众号 《爱毕设》输入项目编码即可！！！
 
 ![qrcode_for_gh_0f10658cd7ee_430](https://github.com/hjsdjko/onlyzaixianshangcheng/assets/120558513/edfc28fc-d9df-4e81-ac62-d02aa360e379)
 
